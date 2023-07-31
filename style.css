@@ -1,0 +1,102 @@
+.display-1{
+  text-shadow:7px 7px 7px blue;
+  font-size: 130px;
+  color:maroon;
+}
+body{
+  background-color: lightblue;
+animation-name:atharva;
+  animation-duration:110s;
+}
+@keyframes atharva{
+  0% { background-color:#bf4f4f;}
+  20% { background-color:blueviolet;}
+  40% { background-color:yellow;}
+  60% { background-color:hotpink;}
+  60% { background-color:deeppink;}
+  60% { background-color:pink;}
+  60% { background-color:lightgoldenrodyellow;}
+  60% { background-color:yellowgreen;}
+  60% { background-color:green;}
+  60% { background-color:chocolate;}
+  60% { background-color:blanchedalmond;}
+  100% { background-color:green;}
+}
+  
+
+img{
+ border: 2px 3px 3px gold;
+ height:300px;
+ width:350px;
+}
+.a{
+  background-color:green;
+  padding: 20px;
+
+}
+
+
+.A1{
+  margin-right: 100PX;
+  height:100px;
+  ;
+}
+.A2{
+  margin-left: 100PX;
+    height:30px;
+  background-color: aquamarine;
+}
+.A3{
+  margin-left: 100PX;
+    height:30px;
+}
+
+.b{
+  font-family:  Sitka Small Semibold;
+  text-align: justify;
+   
+}
+.c1{
+  
+  width:100px;
+height: 80px;
+  background-color: hotpink;
+animation-name:atharva;
+  animation-duration: 59s;
+}
+@keyframes atharva{
+  0% { background-color:#bf4f4f;}
+  20% { background-color:blueviolet;}
+  250% { background-color:darkolivegreen;}
+  20% { background-color:deeppink;}
+  20% { background-color:blueviolet;}
+  20% { background-color:hotpink;}
+  20% { background-color:lightgray;}
+  20% { background-color:greenyellow;}
+  40% { background-color:yellow;}
+  60% { background-color:#bf4f;}
+  100% { background-color:green;}
+}
+p{
+  font-family: YouYuan;
+  text-align: justify;
+}
+body{
+  background-color: ;
+}
+.a{
+  
+  padding:5px;
+  background-color: black;
+}
+p{
+  text-align: justify;
+  font-family: Lucida Bright;
+  
+}
+#o{
+  margin-left: 900px;
+}
+#oo{
+  margin-left: 100px;
+}
